@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarParkTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d2fe6365fea6e790a4a960ddf2f48fe214c226f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarParkTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarParkTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

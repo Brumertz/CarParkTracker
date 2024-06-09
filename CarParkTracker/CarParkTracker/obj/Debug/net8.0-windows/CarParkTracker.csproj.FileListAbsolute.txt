@@ -14,3 +14,4 @@ C:\Users\BrumertzTafe\OneDrive - TAFE\CVIV\Programming\C#\AT3\CarParkTracking\Ca
 C:\Users\BrumertzTafe\OneDrive - TAFE\CVIV\Programming\C#\AT3\CarParkTracking\CarParkTracker\CarParkTracker\obj\Debug\net8.0-windows\CarParkTracker.pdb
 C:\Users\BrumertzTafe\OneDrive - TAFE\CVIV\Programming\C#\AT3\CarParkTracking\CarParkTracker\CarParkTracker\obj\Debug\net8.0-windows\CarParkTracker.genruntimeconfig.cache
 C:\Users\BrumertzTafe\OneDrive - TAFE\CVIV\Programming\C#\AT3\CarParkTracking\CarParkTracker\CarParkTracker\obj\Debug\net8.0-windows\ref\CarParkTracker.dll
+C:\Users\BrumertzTafe\OneDrive - TAFE\CVIV\Programming\C#\AT3\CarParkTracking\CarParkTracker\CarParkTracker\obj\Debug\net8.0-windows\CarParkTracker.sourcelink.json
